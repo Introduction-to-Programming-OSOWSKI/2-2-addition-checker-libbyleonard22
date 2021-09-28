@@ -7,5 +7,3 @@ def addCheck(x, y, z):
 
     else:
         return False
-
-print(addCheck(x, y, z))
